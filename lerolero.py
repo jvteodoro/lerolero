@@ -9,9 +9,21 @@ import random
 # listas de possiblidades para cada uma das partes.
 #
 
-parte1 = []
-parte2 = []
-parte3 = []
+parte1 = [
+    "O sistema em desenvolvimento",
+    "O novo protocolo de comunicação",
+    "O algoritmo otimizado"
+]
+parte2 = [
+    "Possui excelente desempenho",
+    "oferece garantias de precisão acima da média",
+    "preenche uma lacum significiativa"
+]
+parte3 = [
+    "nas aplicações a que se destina",
+    "em relações às opções disponíveis no mercado",
+    ", provendo ampla vantagem competitiva a seus usuários"
+]
 
 # Combina as partes aleatoriamentes
 #
