@@ -31,6 +31,8 @@ if lingua == 2:
     parte2 = ["apple", "pear"]
     parte3 = ["horse", "zebra"]
 
+#SOCORRO
+
 # Combina as partes aleatoriamentes
 #
 print (random.choice(parte1), random.choice(parte2), random.choice(parte3))
