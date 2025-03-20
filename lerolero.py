@@ -1,3 +1,4 @@
+#git@github.com:jvteodoro/lerolero.git
 #!/usr/bin/env python3
 """
 Gerador de LEROLERO
