@@ -1,1 +1,4 @@
-Ada Lovelace e Alan Turing
+# Lerolero
+Um gerador de frases de efeito sem sentido
+
+olá
