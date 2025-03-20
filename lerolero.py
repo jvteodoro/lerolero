@@ -24,6 +24,12 @@ parte3 = [
     "em relações às opções disponíveis no mercado",
     ", provendo ampla vantagem competitiva a seus usuários"
 ]
+lingua = int(input("Escolha a língua: 1 - português; 2 - inglês\n"))
+
+if lingua == 2:
+    parte1 = ["hi", "como"]
+    parte2 = ["apple", "pear"]
+    parte3 = ["horse", "zebra"]
 
 # Combina as partes aleatoriamentes
 #
